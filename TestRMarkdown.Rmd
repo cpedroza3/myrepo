@@ -2,9 +2,8 @@
 title: "TestMarkdown 2.0"
 author: "CP"
 date: "4/7/2021"
-output: 
-  html_document:
-    keep_md: true
+output: github_document
+  
 ---
 
 ```{r setup, include=FALSE}
